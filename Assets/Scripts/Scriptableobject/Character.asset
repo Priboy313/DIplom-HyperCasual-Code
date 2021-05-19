@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed3a16ebf129014d99affa0ab9f490e, type: 3}
+  m_Name: Character
+  m_EditorClassIdentifier: 
+  Nickname: Priboy313
+  numNoobGames: 10
+  noobScore: 7
+  noobCombo: 2
+  noobDeaths: 0
+  numMidGames: 0
+  midScore: 4
+  midCombo: 2
+  midDeaths: 2
+  numProGames: 0
+  proScore: 0
+  proCombo: 0
+  proDeaths: 0

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 83519d1471c5b784b9d88dbd784d1695
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inGameSet: {fileID: 11400000, guid: b44de0e9a53e01f4d9ceecc91a4f6aca, type: 2}
+  - goal1: {instanceID: 0}
+  - goal2: {instanceID: 0}
+  - scrap: {instanceID: 0}
+  - Explosion: {instanceID: 0}
+  - ScoreText: {instanceID: 0}
+  - hpXY: {instanceID: 0}
+  - hpBody: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

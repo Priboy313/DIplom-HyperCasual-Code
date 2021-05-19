@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b0dbc9e9908761046be21885a760d46f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inGameSet: {fileID: 11400000, guid: b44de0e9a53e01f4d9ceecc91a4f6aca, type: 2}
+  - scrap: {fileID: 8461433416409209502, guid: 96b9507f2d63ad84ebf1f29fde9e93fa, type: 3}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
